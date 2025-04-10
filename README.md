@@ -1,49 +1,54 @@
-# 📊 Dashboard de Vendas do Xbox – Projeto Final Bootcamp DIO x Heineken
+# 🎮 Dashboard de Vendas Xbox | Desafio Final DIO x Heineken
+Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualização de dados.
 
-Este projeto consiste em um **Dashboard de Vendas do Xbox** desenvolvido no Excel, com foco em análise visual de dados e insights para tomada de decisão. Ele foi criado como desafio final do **Bootcamp DIO + Heineken**.
 
----
-
-## 🎯 Objetivo
-
-Transformar dados brutos de vendas em um painel interativo que permita visualizar:
-
-- Receita total
-- Quantidade de vendas
-- Evolução temporal
-- Desempenho por produto, vendedor e região
+>**Foco Principal:** Transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
+>
 
 ---
 
-# 🍺 DESAFIO DE PROJETO DIO x HEINEKEN  
-## 📦 Projeto de Banco de Dados Relacional | Oficina  
-
----
-
-## 📝 Descrição do Projeto  
-Este projeto modela o banco de dados relacional de uma oficina mecânica, abordando desde a modelagem lógica até a implementação de queries SQL complexas, com foco em gestão de clientes, veículos, ordens de serviço, serviços prestados, mecânicos e pagamentos.  
-
->**Foco Principal:** Demonstrar domínio de SQL (DDL + DML + consultas), modelagem relacional e organização de projetos de dados para fins de portfólio.  
-
----
-
-## 📌 Objetivos  
-- Estruturar o banco de dados da oficina de forma normalizada.  
-- Criar e popular tabelas com dados realistas.  
-- Executar consultas SQL úteis e analíticas.  
-- Visualizar a estrutura através de um diagrama ER. 
-
-
----
 
 ## 📁 Estrutura do Projeto
 
 ```
 📦 dashboard-vendas-xbox/
 ├── README.md
-├── dashboard_xbox.xlsx
+├── dashboard_vendas_xbox.xlsx
 └── dados_base_xbox.csv
 ```
+
+---
+
+## ❓ Perguntas de Negócio Respondidas
+
+
+>>As análises abaixo foram respondidas por meio da aba **Cálculos**, que alimenta o dashboard final do projeto.
+
+
+
+### 1. Qual o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)?
+ 
+### 2. Qual o faturamento total de vendas de planos anuais separado por:
+- **Com auto renovação**
+- **Sem auto renovação**
+ 
+### 3. Total de vendas de assinaturas do EA Play
+ 
+### 4. Total de vendas de assinaturas do Minecraft Season Pass
+ 
+
+---
+
+## 📈 Componentes do Dashboard
+
+- Indicadores com KPIs de faturamento e volume de vendas
+- Gráficos interativos de barras e pizza
+- Segmentações inteligentes por período, assinatura e tipo de renovação
+- Layout limpo, intuitivo e responsivo para decisões executivas
+
+---
+
+
 
 ---
 
@@ -100,6 +105,29 @@ A base de dados é um arquivo CSV com a seguinte estrutura:
 
 Esse projeto mostra como o Excel pode ser uma ferramenta poderosa na visualização de dados, unindo **simplicidade**, **automação** e **inteligência visual** para o mundo dos negócios.
 
+
 ---
 
-**Desenvolvido com 💚 no Bootcamp DIO x Heineken**
+## 📌 Créditos e Contato
+
+> Criado por **SILVIA GUIMARÃES** como parte de portfólio de projetos SQL e modelagem relacional.
+
+Para dúvidas ou sugestões, entre em contato comigo:
+- **E-mail:** (sguimaraes1004@gmail.com)
+- **Redes Sociais: [LinkedIn](https://www.linkedin.com/in/silvia-maria-guimar%C3%A3es-costa-3a01b423b)**
+  
+---
+
+## 🙏 Agradecimentos
+
+Agradeço à equipe da **DIO** e **HEINEKEN** pela oportunidade de participar deste desafio e ampliar minhas habilidades em modelagem de banco de dados e organização estrutural de informações.  
+Este projeto reflete o aprendizado prático e meu compromisso com boas práticas na área de tecnologia.
+
+---
+
+🍺 _A parceria com a Heineken reforça o compromisso de promover a inovação e o aprendizado na área de tecnologia._
+
+---
+
+
+# ![DIO Logo](https://hermes.digitalinnovation.one/assets/diome/logo.png)
