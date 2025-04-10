@@ -15,6 +15,27 @@ Transformar dados brutos de vendas em um painel interativo que permita visualiza
 
 ---
 
+# 🍺 DESAFIO DE PROJETO DIO x HEINEKEN  
+## 📦 Projeto de Banco de Dados Relacional | Oficina  
+
+---
+
+## 📝 Descrição do Projeto  
+Este projeto modela o banco de dados relacional de uma oficina mecânica, abordando desde a modelagem lógica até a implementação de queries SQL complexas, com foco em gestão de clientes, veículos, ordens de serviço, serviços prestados, mecânicos e pagamentos.  
+
+>**Foco Principal:** Demonstrar domínio de SQL (DDL + DML + consultas), modelagem relacional e organização de projetos de dados para fins de portfólio.  
+
+---
+
+## 📌 Objetivos  
+- Estruturar o banco de dados da oficina de forma normalizada.  
+- Criar e popular tabelas com dados realistas.  
+- Executar consultas SQL úteis e analíticas.  
+- Visualizar a estrutura através de um diagrama ER. 
+
+
+---
+
 ## 📁 Estrutura do Projeto
 
 ```
