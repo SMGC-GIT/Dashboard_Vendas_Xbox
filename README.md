@@ -14,7 +14,7 @@ Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualiza�
 📦 dashboard-vendas-xbox/
 ├── README.md
 ├── dashboard_vendas_xbox.xlsx
-└── dados_base_xbox.csv
+└── dados_planilha.csv
 ```
 
 ---
@@ -25,81 +25,47 @@ Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualiza�
 >>As análises abaixo foram respondidas por meio da aba **Cálculos**, que alimenta o dashboard final do projeto.
 
 
-
+```sql
 ### 1. Qual o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)?
- 
+```
+```sql 
 ### 2. Qual o faturamento total de vendas de planos anuais separado por:
 - **Com auto renovação**
 - **Sem auto renovação**
- 
+```
+```sql 
 ### 3. Total de vendas de assinaturas do EA Play
- 
+```
+```sql 
 ### 4. Total de vendas de assinaturas do Minecraft Season Pass
- 
+``` 
 
 ---
 
 ## 📈 Componentes do Dashboard
 
-- Indicadores com KPIs de faturamento e volume de vendas
-- Gráficos interativos de barras e pizza
-- Segmentações inteligentes por período, assinatura e tipo de renovação
+- Indicadores das subscrições
+- Gráficos interativos de barras
+- Segmentações inteligentes por período: Anual, Semestral e Trimestral
 - Layout limpo, intuitivo e responsivo para decisões executivas
-
----
-
-
-
----
-
-## 🔄 Atualização Automática
-
-Este projeto é **reutilizável**:  
-> Basta substituir o arquivo `dados_base_xbox.csv` com seus próprios dados (seguindo o mesmo layout) e o Excel atualizará todos os gráficos e KPIs automaticamente.
-
----
-
-## 📌 Dados Utilizados
-
-A base de dados é um arquivo CSV com a seguinte estrutura:
-
-| Data       | Produto | Região     | Vendedor      | Quantidade | Preco_Unitario |
-|------------|---------|------------|----------------|------------|----------------|
-| 2024-01-03 | Xbox S  | Sudeste    | Ana Ribeiro    | 3          | 2499           |
-| 2024-01-03 | Xbox X  | Sul        | Carlos Mendes  | 2          | 3499           |
-| ...        | ...     | ...        | ...            | ...        | ...            |
-
----
-
-## 📷 Visual do Dashboard
-
-> ![Dashboard de Vendas Xbox](./images/preview_dashboard_xbox.png)
-
----
-
-## 📂 Acessar o Dashboard
-
-- 👉 **[Baixar Excel com Dashboard](./dashboard_xbox.xlsx)**  
-- 📈 **[Ver Dados Base (CSV)](./dados_base_xbox.csv)**
 
 ---
 
 ## ✅ Como Usar
 
-1. Abra o arquivo `dashboard_xbox.xlsx`
-2. Verifique as segmentações para filtrar por produto, mês, região ou vendedor
-3. Substitua o `dados_base_xbox.csv` por outro arquivo com o mesmo layout para atualizar os resultados
+1. Abra o arquivo `dashboard_vendas_xbox.xlsx` onde se encontra o dashboard
+2. Verifique as segmentações para filtrar por tipo de subscrição
+3. O filtro determinará a visualização dos dados no gráfico seguido de total geral em destaque das subscrições do EA PLAY SEASON PASS e do MANICRAFT SEASON PASS.
 
 ---
 
-## 🧠 Insights Geração Automática
+### 🔗 DASHBOARD
 
-- Quais produtos mais vendem?
-- Qual região gera maior receita?
-- Qual vendedor está com melhor desempenho?
-- Como está a evolução mês a mês?
+
+> 👉 **[Clique aqui para visualizar o Diagrama do Banco de Dados](https://github.com/SMGC-GIT/Dashboard_Vendas_Xbox/blob/main/DASHBOARD_VENDAS_XBOX.xls)**
 
 ---
+
 
 ## 🏁 Conclusão
 
