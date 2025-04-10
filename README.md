@@ -14,7 +14,7 @@ Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualiza�
 📦 dashboard-vendas-xbox/
 ├── README.md
 ├── dashboard_vendas_xbox.xlsx
-└── dados_planilha.csv
+└── dados_planilha.xlsx
 ```
 
 ---
