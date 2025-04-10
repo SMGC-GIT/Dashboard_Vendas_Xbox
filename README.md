@@ -62,7 +62,7 @@ Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualiza�
 ### 🔗 DASHBOARD
 
 
-> 👉 **[Clique aqui para visualizar o Diagrama do Banco de Dados](https://github.com/SMGC-GIT/Dashboard_Vendas_Xbox/blob/main/DASHBOARD_VENDAS_XBOX.xls)**
+> 👉 **[Clique aqui para visualizar o DASHBOARD](https://github.com/SMGC-GIT/Dashboard_Vendas_Xbox/blob/main/DASHBOARD_VENDAS_XBOX.xlsx)**
 
 ---
 
