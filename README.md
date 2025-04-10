@@ -22,23 +22,20 @@ Criar um **Dashboard de Vendas do Xbox**, com foco na organização e visualiza�
 ## ❓ Perguntas de Negócio Respondidas
 
 
->>As análises abaixo foram respondidas por meio da aba **Cálculos**, que alimenta o dashboard final do projeto.
+### As análises abaixo foram respondidas por meio da aba **Cálculos**, que alimenta o dashboard final do projeto.
 
 
-```sql
-### 1. Qual o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)?
-```
-```sql 
-### 2. Qual o faturamento total de vendas de planos anuais separado por:
-- **Com auto renovação**
-- **Sem auto renovação**
-```
-```sql 
-### 3. Total de vendas de assinaturas do EA Play
-```
-```sql 
-### 4. Total de vendas de assinaturas do Minecraft Season Pass
-``` 
+ 
+>👉1. Qual o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)?
+  
+>👉2. Qual o faturamento total de vendas de planos anuais separado por:
+>- **Com auto renovação**
+>- **Sem auto renovação**
+  
+>👉3. Total de vendas de assinaturas do EA Play
+  
+>👉4. Total de vendas de assinaturas do Minecraft Season Pass
+ 
 
 ---
 
