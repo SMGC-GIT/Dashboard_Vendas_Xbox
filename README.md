@@ -73,7 +73,7 @@ Esse projeto mostra como o Excel pode ser uma ferramenta poderosa na visualizaç
 
 ## 📌 Créditos e Contato
 
-> Criado por **SILVIA GUIMARÃES** como parte de portfólio de projetos SQL e modelagem relacional.
+> Criado por **SILVIA GUIMARÃES** como parte de portfólio de projetos.
 
 Para dúvidas ou sugestões, entre em contato comigo:
 - **E-mail:** (sguimaraes1004@gmail.com)
@@ -83,7 +83,7 @@ Para dúvidas ou sugestões, entre em contato comigo:
 
 ## 🙏 Agradecimentos
 
-Agradeço à equipe da **DIO** e **HEINEKEN** pela oportunidade de participar deste desafio e ampliar minhas habilidades em modelagem de banco de dados e organização estrutural de informações.  
+Agradeço à equipe da **DIO** e **HEINEKEN** pela oportunidade de participar deste desafio e ampliar minhas habilidades.  
 Este projeto reflete o aprendizado prático e meu compromisso com boas práticas na área de tecnologia.
 
 ---
